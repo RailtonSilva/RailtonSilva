@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/railtonsilva" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-railtonsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/https://www.linkedin.com/in/railton-silva-543072289/" />
 </a>
 </p>
 
