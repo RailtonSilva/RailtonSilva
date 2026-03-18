@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Instagram-railtonsv04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/railtonsilva/" target="_blank">
-  <img src="https://img.shields.io/badge/https:/Linkedin.com/in/railton-silva-543072289?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/railton-silva-543072289/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-railton--silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
