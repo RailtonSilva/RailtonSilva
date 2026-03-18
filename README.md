@@ -12,12 +12,12 @@
   <img src="https://img.shields.io/badge/Email-railtonsv22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/oreidosites" target="_blank">
+<a href="https://instagram.com/railtonsv04" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-railtonsv04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/railtonsilva" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-railtonsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/[LinkedIn-railtonsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/railton-silva-543072289/)" />
 </a>
 </p>
 
