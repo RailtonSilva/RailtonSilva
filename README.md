@@ -8,13 +8,15 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
- <a href="railtonsv22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-seuemail@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:railtonsv22@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-railtonsv22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-railtonsv04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-<a href="https://www.linkedin.com/in/seu-usuario">
+
+<a href="https://instagram.com/oreidosites" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-railtonsv04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/railtonsilva" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-railtonsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
