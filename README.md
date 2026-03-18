@@ -8,9 +8,9 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-RailtonSilva-181717?style=for-the-badge&logo=github" />
-  </a>
+ <a href="railtonsv22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-seuemail@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-railtonsv04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
